@@ -1,4 +1,5 @@
 first file in firstbranch
 
 modified in firstbranch
+change in secondbranch
 change in master
